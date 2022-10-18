@@ -24,3 +24,6 @@ fast_boat 2
 
 turbo_boat 3
 fast_boat 4
+
+speed red
+speed blue
