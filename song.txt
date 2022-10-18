@@ -27,3 +27,6 @@ fast_boat 4
 
 speed red
 speed blue
+
+speed orange
+speed purple
