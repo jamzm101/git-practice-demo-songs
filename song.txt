@@ -18,3 +18,6 @@ boat 2
 
 boat 3
 boat 4
+
+turbo_boat 1
+fast_boat 2
