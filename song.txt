@@ -15,3 +15,6 @@ car 4
 
 boat 1
 boat 2
+
+boat 3
+boat 4
